@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage1.master.cs" Inherits="sitem.NestedMasterPage1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<section class="header_text sub">
+			<img class="pageBanner" src="themes/images/pageBanner.png" alt="New products" >
+				<h4><span>Product Detail</span></h4>
+			</section>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
+<section class="main-content">				
+<div class="row">	
+
+    <asp:ContentPlaceHolder ID="Left" runat="server">
+
+            </asp:ContentPlaceHolder>
+ 
+    <asp:ContentPlaceHolder ID="Right" runat="server">
+
+            </asp:ContentPlaceHolder>
+
+
+</div>
+</section>	
+</asp:Content>

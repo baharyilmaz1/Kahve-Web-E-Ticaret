@@ -1,0 +1,240 @@
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\csc.exe
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\csc.exe.config
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\csc.rsp
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\csi.exe
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\csi.rsp
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\System.AppContext.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\System.IO.FileSystem.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\vbc.exe
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\vbc.exe.config
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\vbc.rsp
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\VBCSCompiler.exe
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\sitem.dll.config
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\sitem.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\sitem.pdb
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\obj\Debug\sitem.csprojResolveAssemblyReference.cache
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\obj\Debug\sitem.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\sitem\sitem\obj\Debug\sitem.pdb
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\sitem\sitem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\sitem\sitem\bin\sitem.dll.config
+C:\Users\Admin\Desktop\sitem\sitem\bin\sitem.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\sitem.pdb
+C:\Users\Admin\Desktop\sitem\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\sitem\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\sitem\sitem\obj\Debug\sitem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sitem\sitem\obj\Debug\sitem.dll
+C:\Users\Admin\Desktop\sitem\sitem\obj\Debug\sitem.pdb
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\csc.exe
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\csc.exe.config
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\csc.rsp
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\csi.exe
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\csi.rsp
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\System.AppContext.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\vbc.exe
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\vbc.exe.config
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\vbc.rsp
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\sitem.dll.config
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\sitem.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\sitem.pdb
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sumeyye\Desktop\sitem\sitem\obj\Debug\sitem.csprojResolveAssemblyReference.cache
+C:\Users\Sumeyye\Desktop\sitem\sitem\obj\Debug\sitem.dll
+C:\Users\Sumeyye\Desktop\sitem\sitem\obj\Debug\sitem.pdb
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\sitem.dll.config
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\sitem.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\sitem.pdb
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\sitemmm\sitem\obj\Debug\sitem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sitemmm\sitem\obj\Debug\sitem.dll
+C:\Users\Admin\Desktop\sitemmm\sitem\obj\Debug\sitem.pdb
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\csc.exe
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\csc.exe.config
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\csc.rsp
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\csi.exe
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\csi.rsp
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\System.AppContext.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\vbc.exe
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\vbc.exe.config
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\vbc.rsp
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\sitem.dll.config
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\sitem.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\sitem.pdb
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\obj\Debug\sitem.csprojResolveAssemblyReference.cache
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\obj\Debug\sitem.dll
+C:\Users\Sumeyye\Desktop\siteNeste\sitem\obj\Debug\sitem.pdb
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\csc.exe
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\csc.exe.config
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\csc.rsp
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\csi.exe
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\csi.rsp
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\System.AppContext.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\vbc.exe
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\vbc.exe.config
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\vbc.rsp
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\sitem.dll.config
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\sitem.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\sitem.pdb
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\obj\Debug\sitem.csprojResolveAssemblyReference.cache
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\obj\Debug\sitem.dll
+C:\Users\Sumeyye\Desktop\MASAÜSTÜ\siteNeste\sitem\obj\Debug\sitem.pdb
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\csc.exe
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\csc.exe.config
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\csc.rsp
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\csi.exe
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\csi.rsp
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\System.AppContext.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\vbc.exe
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\vbc.exe.config
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\vbc.rsp
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\VBCSCompiler.exe
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\sitem.dll.config
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\sitem.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\sitem.pdb
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\obj\Debug\sitem.csprojAssemblyReference.cache
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\obj\Debug\sitem.csproj.CoreCompileInputs.cache
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\obj\Debug\sitem.csproj.CopyComplete
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\obj\Debug\sitem.dll
+C:\Users\irem_\Desktop\aspeticaret-master\aspeticaret-master\siteNeste\sitem\obj\Debug\sitem.pdb

@@ -1,0 +1,169 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="sitem.Site1" %>
+
+<!DOCTYPE html>
+<html lang="en">
+	<head runat="server">  
+		<meta charset="utf-8">
+		<title>Alışveriş  Sitesi</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="description" content="">
+            <!-- bootstrap -->
+            <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+            <link href="../bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
+            <link href="../themes/css/bootstrappage.css" rel="stylesheet" />
+            <!-- global styles -->
+            <link href="../themes/css/flexslider.css" rel="stylesheet" />
+            <link href="themes/css/main.css" rel="stylesheet" />
+            <!-- scripts -->
+            <script src="bootstrap/js/bootstrap.min.js"></script>
+            <script src="../themes/js/jquery-1.7.2.min.js"></script>
+            <script src="../themes/js/jquery.scrolltotop.js"></script>
+            <script src="../themes/js/superfish.js"></script>
+		<!--[if lt IE 9]>			
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+     <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+	</head>
+    <body>
+         <form id="form1" runat="server">
+		<div id="top-bar" class="container">
+			<div class="row">
+				<div class="span4">
+					<form method="POST" class="search_form">
+						<input type="text" class="input-block-level search-query" Placeholder="eg. T-sirt">
+					</form>
+				</div>
+				<div class="span8">
+					<div class="account pull-right">
+						<ul class="user-menu">				
+							<li><a href="#">Hesabım</a></li>
+							<li><a href="cart.aspx">Sepetim</a></li>
+							<li><a href="#">
+                                <asp:LinkButton ID="lnkCikis" runat="server" OnClick="lnkCikis_Click">Çıkış Yap</asp:LinkButton></a></li>					
+							<li><a href="Giris.aspx">Giriş Yap</a></li>		
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="wrapper" class="container">
+			<section class="navbar main-menu">
+				<div class="navbar-inner main-menu">				
+					<a href="index.html" class="logo pull-left"><img src="themes/images/logo.png" class="site_logo" alt=""></a>
+					<nav id="menu" class="pull-right">
+						<ul>
+							<asp:Repeater ID="rpMenu" OnItemDataBound="rpMenu_ItemDataBound" runat="server">
+                                <ItemTemplate>
+                                    <li>
+                                    <a href="product.aspx?CatId=<%#Eval("CatId")%>">
+                                       <%#Eval("CatName")%>
+                                    </a>
+                                        <ul>
+                                        <asp:Repeater ID="rpAltKategori" runat="server">
+                                            <ItemTemplate>
+                                                <li><a href="product.aspx"><%#Eval("ChildCatName").ToString()%></a></li>
+                                            </ItemTemplate>
+                                        </asp:Repeater>
+                                            </ul>
+                                       </li> 
+                                </ItemTemplate>
+                            </asp:Repeater>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+
+             
+			
+						
+			<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+            </asp:ContentPlaceHolder>
+							
+								
+			
+			<section class="our_client">
+				<h4 class="title"><span class="text">Manufactures</span></h4>
+				<div class="row">					
+					<div class="span2">
+						<a href="#"><img alt="" src="themes/images/clients/14.png"></a>
+					</div>
+					<div class="span2">
+						<a href="#"><img alt="" src="themes/images/clients/35.png"></a>
+					</div>
+					<div class="span2">
+						<a href="#"><img alt="" src="themes/images/clients/1.png"></a>
+					</div>
+					<div class="span2">
+						<a href="#"><img alt="" src="themes/images/clients/2.png"></a>
+					</div>
+					<div class="span2">
+						<a href="#"><img alt="" src="themes/images/clients/3.png"></a>
+					</div>
+					<div class="span2">
+						<a href="#"><img alt="" src="themes/images/clients/4.png"></a>
+					</div>
+				</div>
+			</section>
+			<section id="footer-bar">
+				<div class="row">
+					<div class="span3">
+						<h4>Gezinme Rehberi</h4>
+						<ul class="nav">
+							<li><a href="Index.aspx">Anasayfa</a></li>  
+							<li><a href="./about.html">Hakkımızda</a></li>
+							<li><a href="./contact.html">Bize Ulaşın</a></li>
+							<li><a href="cart.aspx">Sepetim</a></li>
+							<li><a href="Giris.aspx">Giriş</a></li>							
+						</ul>					
+					</div>
+					<div class="span4">
+						<h4>Hesabım</h4>
+						<ul class="nav">
+							<li><a href="#">Hesabım</a></li>
+							<li><a href="#">Sipariş Geçmişi</a></li>
+							<li><a href="#">İstek Listesi</a></li>
+							<li><a href="#">Haberler</a></li>
+						</ul>
+					</div>
+					<div class="span5">
+						<p class="logo"><img src="themes/images/logo.png" class="site_logo" alt=""></p>
+						
+						<span class="social_icons">
+							<a class="facebook" href="https://www.facebook.com/">Facebook</a>
+							<a class="twitter" href="https://twitter.com/?lang=tr">Twitter</a>
+							<a class="skype" href="https://www.skype.com/tr/">Skype</a>
+							<a class="vimeo" href="https://www.instagram.com/?hl=tr">Instagram</a>
+						</span>
+					</div>					
+				</div>	
+			</section>
+			<section id="copyright">
+				<span>&copy; AlışVeriş Sitesi 2017 Tüm Hakları Saklıdır.</span>
+			</section>
+		</div>
+   	<script src="themes/js/common.js"></script>
+		<script src="themes/js/jquery.flexslider-min.js"></script>
+		<script type="text/javascript">
+            $(function () {
+                $(document).ready(function () {
+                    $('.flexslider').flexslider({
+                        animation: "fade",
+                        slideshowSpeed: 4000,
+                        animationSpeed: 600,
+                        controlNav: false,
+                        directionNav: true,
+                        controlsContainer: ".flex-container" // the container that holds the flexslider
+                    });
+                });
+            });
+		</script>
+             </form>
+    </body>
+</html>
